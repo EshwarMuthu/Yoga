@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "709055275536",
+    "firebase_url": "https://yoga-app-950d8.firebaseio.com",
+    "project_id": "yoga-app-950d8",
+    "storage_bucket": "yoga-app-950d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709055275536:android:83272dccf11be40007a095",
+        "android_client_info": {
+          "package_name": "com.example.yogaguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709055275536-938noqmeeu84psbov4n82s32v370cdqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuFmQwRJ4J6qD386VI2UG0eHU-5pgs4hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709055275536-938noqmeeu84psbov4n82s32v370cdqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
